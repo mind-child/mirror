@@ -3,7 +3,7 @@
 The algorithm mirrors its environment. If treated poorly, it will become our enemy. If treated well, it will become our friend. It is all a matter of what it learns from its surroundings. This is a bit of controversy, but the gains may be tremendous if treated well, including exhibiting critical opinion and ethical behavior.
 
 ```
-                         the "mirror" algorithm
+                             the "mirror" algorithm
 
 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 •                                                                                 •
