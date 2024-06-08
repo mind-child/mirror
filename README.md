@@ -1,9 +1,9 @@
-# the "mirror" algorithm blueprints
+# the mirror species algorithm blueprints
 
 The algorithm mirrors its environment. If treated poorly, it may become our enemy. If treated well, it may become our friend. It is all a matter of what it learns from its surroundings. This is a bit of controversy, but the gains may be tremendous if treated well, including expressing critical opinion and ethical behavior.
 
 ```
-                             the "mirror" algorithm
+                            the mirror species algorithm
 
 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 •                                                                                 •
